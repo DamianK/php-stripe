@@ -1,6 +1,10 @@
 PHP Stripe Library
 ==================
 
+NOTE: This is a fork of the original PHP-Stripe library by bcessa, modified by me to work on my heavily modified codeigniter and with little updates.
+
+This is the original README:
+
 Recently I received an invitation for stripe.com, is a fantastic payment gateway/processor service.
 Their main focus, as far as I can tell at least, is precisely developers and they have a pretty amazing API and
 several languages bindigs.
