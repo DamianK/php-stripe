@@ -2,6 +2,7 @@ PHP Stripe Library
 ==================
 
 NOTE: This is a fork of the original PHP-Stripe library by @bcessa (Ben Cessa <ben@pixative.com>), modified by me to work on my heavily modified codeigniter and with little updates.
+I HAVE NOT UPDATED THIS REPO IN A WHILE SO IT MIGHT NOT WORK WITH CURRENT CODEIGNITER.
 
 This is the original README:
 
